@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Github for my interesting projects often used in my YouTube tutorials.  
+Github for my interesting projects, often used in my YouTube tutorials.  
 My primary interest is machine learning. From basic statistics, data visualization to complex neural networks.  
 I also like to make some cool stuff(games, visualization, etc.) when I have an idea for them.  
 YouTube chanell:  
